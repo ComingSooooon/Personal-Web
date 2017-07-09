@@ -79,8 +79,8 @@
           <i class="iconfont icon-fuzhi"></i>简历浏览</div>
         <el-collapse-item title="My resume" name="1">
           <div>My resume:
-            <a href="../../../static/file/resume-pdf.pdf" target="blank">PDF版本</a>
-            <a href="../../../static/file/resume-html.html" target="blank">HTML版本</a>
+            <a href="../static/file/resume-pdf.pdf" target="blank">PDF版本</a>
+            <a href="../static/file/resume-html.html" target="blank">HTML版本</a>
           </div>
         </el-collapse-item>
       </el-collapse>
