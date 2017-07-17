@@ -68,7 +68,7 @@
           <div>
             <el-steps :space="100" direction="vertical" :active="1">
               <el-step title="南京主播之家网络科技有限公司 ( 2016年10月1日～目前 )" description=""></el-step>
-              <el-step title="南京三水物联网有限公司 ( 2016年7月1日～2016年10月1日 实习)" description=""></el-step>
+              <el-step title="南京三水物联网有限公司 ( 2015年6月1日～2016年10月1日)" description=""></el-step>
             </el-steps>
           </div>
         </el-collapse-item>
